@@ -9,7 +9,7 @@ This project investigates a loan dataset to predict loan outcomes (e.g., default
 
 ## Data
 - **Source:** [Kaggle Dataset - BNPL Data V1](https://www.kaggle.com/datasets/bdoey1/bnpl-data-v1)
-- 
+  
 ## Methodology
 
 ### Data Preprocessing:
