@@ -44,4 +44,4 @@ This project investigates a loan dataset to predict loan outcomes (e.g., default
 ## Conclusion
 - Summarize the project's findings and the effectiveness of the models in predicting loan outcomes.
 - Discuss limitations of the study (e.g., data availability, model assumptions) and potential improvements.
-- Outline potential applications of the results in a real-world loan approval setting (consider
+- Outline potential applications of the results in a real-world loan approval setting.
