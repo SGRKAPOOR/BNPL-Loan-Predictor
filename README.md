@@ -2,6 +2,10 @@
 
 This project investigates a loan dataset to predict loan outcomes (e.g., default, successful repayment) using machine learning techniques.
 
+## Dashboard
+
+
+![BNPL_Customer_segmentation](BNPL INSIGHTS.jpg)
 ## Project Goals
 1. Develop and compare machine learning models for predicting loan outcomes.
 2. Analyze the impact of different features on loan decisions.
